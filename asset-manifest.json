@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/facebook-chat-bot/static/css/main.5f361e03.chunk.css",
+    "main.js": "/facebook-chat-bot/static/js/main.a462daa3.chunk.js",
+    "main.js.map": "/facebook-chat-bot/static/js/main.a462daa3.chunk.js.map",
+    "runtime-main.js": "/facebook-chat-bot/static/js/runtime-main.3eabd393.js",
+    "runtime-main.js.map": "/facebook-chat-bot/static/js/runtime-main.3eabd393.js.map",
+    "static/js/2.0928ce5b.chunk.js": "/facebook-chat-bot/static/js/2.0928ce5b.chunk.js",
+    "static/js/2.0928ce5b.chunk.js.map": "/facebook-chat-bot/static/js/2.0928ce5b.chunk.js.map",
+    "index.html": "/facebook-chat-bot/index.html",
+    "precache-manifest.b1c4bff6c36c4064abe5a11ee2b93fee.js": "/facebook-chat-bot/precache-manifest.b1c4bff6c36c4064abe5a11ee2b93fee.js",
+    "service-worker.js": "/facebook-chat-bot/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/facebook-chat-bot/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0928ce5b.chunk.js.LICENSE.txt": "/facebook-chat-bot/static/js/2.0928ce5b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/facebook-chat-bot/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eabd393.js",
+    "static/js/2.0928ce5b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a462daa3.chunk.js"
+  ]
+}
